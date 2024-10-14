@@ -7,7 +7,7 @@ This repository stores copies of Jupyter notebooks and data that are used for a 
 
 The following schedule should be used as a guide for keeping in time for turning work in. This is a self-paced class for the most part, however, and the notebooks are meant to be interactive --- you should be filling in blanks in the text and in the code, and answering questions throughout each notebook. There is an associated Google Classroom on which I will provide feedback and grades for the completed notebooks.
 
-* Monday, October 21st: 
+* Monday, October 21st: MATH_112_R_Lesson_1.ipynb
 * Wednesday, October 23rd: 
 * Friday, October 25th: 
 * Monday, October 28th: 
